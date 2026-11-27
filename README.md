@@ -1,7 +1,7 @@
 # Patrocinio VCT Américas 2027: tablero de BI en Solara
 
 - **URL pública:** https://vct-patrocinio.onrender.com  
-- **Repositorio:** https://github.com/Rayo2995/vct-patrocinio
+- **Repositorio:** https://github.com/kevinrayo-dot/vct-patrocinio
 
 ## 1. Pregunta de decisión
 
