@@ -90,5 +90,5 @@ Variable opcional: `NOMBRE_APP` (título del tablero). No hay secretos.
 
 - **Herramienta:** Claude (Anthropic), en la app de escritorio.
 - **Para qué la usé:** buscar una fuente con fecha (el primer CSV que elegí, `Players.csv` de Kaggle, no tenía fecha y traía nombres de jugadores); escribir el script que extrae el historial de vlr.gg; proponer las reglas de limpieza, el KPI, el modelo y los gráficos; y redactar este README.
-- **Qué cambié o decidí yo:** *(complete con lo que usted revisó, cambió y decidió. Debe poder explicar cada línea de `app.py` y de los módulos).*
+- **Qué cambié o decidí yo:** *Recibí el proyecto ya armado en un archivo zip y me encargué de publicarlo: creé el repositorio público en GitHub, subí los archivos a la rama main desde la terminal (el primer push fue rechazado porque el repositorio traía contenido inicial, así que lo integré con git pull y volví a subir), desplegué el tablero en Render con Docker en el plan gratis y reemplacé en el README las URLs de ejemplo por la URL real de Render y el enlace de mi repositorio.*
 - **Cómo lo verifiqué:** `pytest -q` (6 pruebas, entre ellas la bitácora y la cifra de control por un segundo camino) y revisé el tablero abierto con distintos equipos y temporadas.
